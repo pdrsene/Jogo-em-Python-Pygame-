@@ -5,7 +5,7 @@ O objetivo do jogo é controlar o quadrado verde e desviar dos quadrados vermelh
 
 🚀 Como jogar
 
-Use as setas do teclado (ou WASD, se configurado) para mover o quadrado verde.
+Use as setas do teclado para mover o quadrado verde.
 
 Evite colidir com os quadrados vermelhos.
 
